@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<contrib>
+    <description>
+        <details contrib_ref="0" forum_ref="0" contrib_type="СДЭК модул доставки" status="0" last_update="2007-03-02"/>
+        <comments>Украина - модули доставки
+        </comments>
+        <credits>Автор: Милан
+        
+				Добавляем в интернет-магазин модулях доставки по Украине.</credits>
+    </description>
+	
+	<addfile>
+		<file name="/includes/modules/CalculatePriceDeliveryCdek.php" /> 
+	</addfile>
+
+	<addfile>
+		<file name="/lang/russian/modules/shipping/novaposta.php" />
+	</addfile>
+	
+	<addfile>
+		<file name="/includes/modules/shipping/novaposta.php" />
+	</addfile>
+	
+	<addfile>
+		<file name="images/icons/shipping_novaposta.png" />
+	</addfile>
+	
+	<addfile>
+		<file name="/lang/russian/modules/shipping/intajm.php" />
+	</addfile>
+	
+	<addfile>
+		<file name="/includes/modules/shipping/intajm.php" />
+	</addfile>
+	
+	<addfile>
+		<file name="images/icons/shipping_intajm.png" />
+	</addfile>
+	
+	<addfile>
+		<file name="/lang/russian/modules/shipping/avtoluks.php" />
+	</addfile>
+	
+	<addfile>
+		<file name="/includes/modules/shipping/avtoluks.php" />
+	</addfile>
+	
+	<addfile>
+		<file name="images/icons/shipping_avtoluks.png" />
+	</addfile>
+	
+	<addfile>
+		<file name="/lang/russian/modules/shipping/deliveri.php" />
+	</addfile>
+	
+	<addfile>
+		<file name="/includes/modules/shipping/deliveri.php" />
+	</addfile>
+	
+	<addfile>
+		<file name="images/icons/shipping_deliveri.png" />
+	</addfile>
+	
+	<addfile>
+		<file name="/lang/russian/modules/shipping/mistekspres.php" />
+	</addfile>
+	
+	<addfile>
+		<file name="/includes/modules/shipping/mistekspres.php" />
+	</addfile>
+	
+	<addfile>
+		<file name="images/icons/shipping_mistekspres.png" />
+	</addfile>
+	
+	<addfile>
+		<file name="/lang/russian/modules/shipping/nocnojekspress.php" />
+	</addfile>
+	
+	<addfile>
+		<file name="/includes/modules/shipping/nocnojekspress.php" />
+	</addfile>
+	
+	<addfile>
+		<file name="images/icons/shipping_nocnojekspress.png" />
+	</addfile>
+	
+</contrib>
